@@ -1,8 +1,10 @@
 # Software Engineering Ⅱ
-# Ryo Tanonaka _:(´ཀ`」 ∠):
+# Ryo Tanonaka <-%%%%-> _:(´ཀ`」 ∠):
+``` bash
 # Shunsuke Hatanaka
-# Fumiya Odawara
-# Kazuki Fujiyaa
+# Fumiya Odahara
+# Kazuki Fujiyama
+```
 # Last Edit 12/05/2019
 
 
