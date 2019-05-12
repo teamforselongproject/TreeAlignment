@@ -2,7 +2,7 @@
 # Ryo Tanonaka <-%%%%-> _:(´ཀ`」 ∠):
 ``` bash
 # Shunsuke Hatanaka
-# Fumiya Odawara
+# Fumiya Odahara
 # Kazuki Fujiyama
 ```
 # Last Edit 12/05/2019
