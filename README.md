@@ -47,7 +47,7 @@ rm -rf　.DS_Store　.gitにてs削除を行う。
 git init
 git remote add origin リポジトリURL.git
 今回のプロジェクトの場合はこうである
-git remote add origin https://github.com/Fujiya-San/duck.git
+git remote add origin https://github.com/teamforselongproject/TreeAlignment.git
 
 git pull origin master
 
@@ -63,6 +63,7 @@ git branch
 $ git branch
   master
 * work
+...
 
 
 # 新たなブランチを作成する
@@ -130,6 +131,9 @@ masterへのマージ(結合)はサイト上でも行うことができます。
 例: osのバージョン確認コマンドsw_vers -> osに関連付け
 alias os='sw_vers'
 
+上記のように打ち込むと「os」と打ち込むとsw_versが起動する。
+※ ただしターミナルを変えたり、終了したりすると使えなくなる。
+
 コマンドライン上では以下のように表示される。
 fujiyamakazuki@Comand Line Number : 150:~$ os
 ProductName:	Mac OS X
@@ -151,9 +155,6 @@ alias end='. ~/.bash_profile'
 alias start='vi ~/.bash_profile'
 
 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8< 8<
-
-上記のように打ち込むと「os」と打ち込むとsw_versが起動する。
-※ ただしターミナルを変えたり、終了したりすると使えなくなる。
 
 #〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜#
 
